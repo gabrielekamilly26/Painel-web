@@ -14,7 +14,7 @@ date_default_timezone_set('America/Sao_Paulo');
 define("NOME_DB","sshplus");
 define("NOME_SERVER_DB",'localhost');
 define("USUARIO_DB",'root');
-define("SENHA_DB",'1020');
+define("SENHA_DB",'252631jrk');
 
 #Conexão com o banco de dados
 try{
